@@ -1,4 +1,4 @@
-package vandy.mooc.maplocation;
+package app.src.main.java.vandy.mooc.maplocation;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -11,8 +11,8 @@ import android.view.ViewAnimationUtils;
 import android.widget.EditText;
 import android.widget.ImageButton;
 
-import vandy.mooc.maplocation.LifecycleLoggingActivity;
-import vandy.mooc.maplocation.R;
+import app.src.main.java.vandy.mooc.maplocation.LifecycleLoggingActivity;
+import app.src.main.java.vandy.mooc.maplocation.R;
 import vandy.mooc.maplocation.UiUtils;
 
 /**

@@ -1,4 +1,4 @@
-package vandy.mooc.maplocation;
+package app.src.main.java.vandy.mooc.maplocation;
 
 import android.app.Activity;
 import android.os.Bundle;
